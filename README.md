@@ -1,8 +1,9 @@
 # **Striver A2Z DSA Sheet Solution using JAVA** 🔥🎯
 
-> ### _[Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) 🚀 by [Raj Vikramaditya / Striver](https://www.linkedin.com/in/rajstriver/)(Founder of takeUforward). This repository contains Code Solution using JAVA with explanation._
+> ## _[Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) 🚀 by [Raj Vikramaditya / Striver](https://www.linkedin.com/in/rajstriver/)(Founder of takeUforward). This repository contains Code Solution using JAVA with explanation._
 
-## [takeUForward Youtube Channel](https://www.youtube.com/@takeUforward)
+### [Striver A2Z DSA Sheet Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+### [takeUForward Youtube Channel Link](https://www.youtube.com/@takeUforward)
 
 
 ## 🔥 **Clone this Repository** 💫
