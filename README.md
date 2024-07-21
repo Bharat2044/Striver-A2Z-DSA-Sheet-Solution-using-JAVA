@@ -4,7 +4,6 @@
 
 ## [takeUForward Youtube Channel](https://www.youtube.com/@takeUforward)
 
-<br/>
 
 ## 🔥 **Clone this Repository** 💫
 
@@ -13,9 +12,6 @@ You need to write the following commands on the terminal screen(in vscode) to cl
 ```bash
 git clone "https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAVA.git"
 ```
-
-
-<br />
 
 
 ## 👨‍💻 **Contents** 👀
@@ -28,8 +24,6 @@ git clone "https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JA
     - [**Lec 6: Learn Basic Hashing**]()
 
 
-
-<br />
 
 ## 🔗 **Let's Connect** 🤝
 
