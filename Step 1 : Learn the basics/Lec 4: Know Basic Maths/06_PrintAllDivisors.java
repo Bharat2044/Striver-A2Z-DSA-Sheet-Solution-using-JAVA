@@ -2,9 +2,34 @@
 
 
 class Solution{
+    /*
+    // 1st Approach: Brute Force - Time Complexity = O(N^2), Space Complexity = O(1)
+    static long sumOfDivisors(int N) {
+        // Initialize the variable to store the total sum of all divisors
+        long sum = 0;
+        
+        // Loop through each integer from 1 to N
+        for (int i = 1; i <= N; i++) {
+        
+            // Loop through each number from 1 to i to find divisors of i
+            for (int j = 1; j <= i; j++) {
+            
+                // Check if j is a divisor of i
+                if (i % j == 0) {
+                    // Add j to the total sum if it's a divisor
+                    sum += j;
+                }
+            }
+        }
+        
+        // Return the total sum of all divisors
+        return sum;
+    }
+    */
     
-    // Time Complexity = O(N), Space Complexity = O(1)
-    static long sumOfDivisors(int N){
+    
+    // 2nd Approach: Optimal Approach - Time Complexity = O(N), Space Complexity = O(1)
+    static long sumOfDivisors(int N) {
         // Initialize the variable to store the total sum of divisors
         long sum = 0;
         
@@ -18,21 +43,3 @@ class Solution{
         return sum;
     }
 }
-
-
-
-
-/*
-The function sumOfDivisors calculates the sum of all divisors of every integer from 1 to N.
-
-Time Complexity: O(N)
-- The loop runs from 1 to N, making it linear with respect to the value of N.
-
-Space Complexity: O(1)
-- The function uses a constant amount of space regardless of the input size.
-
-Explanation:
-- For each integer i from 1 to N, the expression `i * (N / i)` represents the contribution of i to the sum of divisors of all integers up to N.
-- The term `(N / i)` calculates how many times i is a divisor for integers from 1 to N.
-- Summing up these contributions for all i from 1 to N gives the total sum of divisors for all numbers from 1 to N.
-*/
