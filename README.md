@@ -19,9 +19,9 @@ git clone "https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JA
 - ### [Step 1 : Learn the basics](./Step%201%20:%20Learn%20the%20basics/)
     - [**Lec 1: Things to Know in C++/Java/Python or any language**](./Step%201%20:%20Learn%20the%20basics/Lec%201:%20Things%20to%20Know%20in%20Java/)
     - [**Lec 2: Build-up Logical Thinking**](./Step%201%20:%20Learn%20the%20basics/Lec%202:%20Build-up%20Logical%20Thinking/)
-    - [**Lec 3: Learn STL/Java-Collections or similar thing in your language**]()
-    - [**Lec 4: Know Basic Maths**]()
-    - [**Lec 5: Learn Basic Recursion**]()
+    - [**Lec 3: Learn STL/Java-Collections or similar thing in your language**](./Step%201%20:%20Learn%20the%20basics/Lec%203:%20Learn%20STL,%20Java-Collections%20or%20similar%20thing%20in%20your%20language/)
+    - [**Lec 4: Know Basic Maths**](./Step%201%20:%20Learn%20the%20basics/Lec%204:%20Know%20Basic%20Maths/)
+    - [**Lec 5: Learn Basic Recursion**](./Step%201%20:%20Learn%20the%20basics/Lec%205:%20Learn%20Basic%20Recursion/)
     - [**Lec 6: Learn Basic Hashing**]()
 
 
