@@ -2,7 +2,8 @@
 
 
 class Solution {
-    
+
+    // Time Complexity = O(N), Space Complexity = O(N)
     public void printNos(int N) {
         // Base case: if N is 0, simply return without doing anything
         if (N == 0) {
@@ -38,7 +39,7 @@ public class Solution {
         solve(arr, x - 1);
     }
 
-    // Method to initialize and fill the array with numbers from 1 to x
+    // Method to initialize and fill the array with numbers from 1 to x - Time Complexity = O(N), Space Complexity = O(N)
     public static int[] printNos(int x) {
         // Create an array of size x
         int[] arr = new int[x];
