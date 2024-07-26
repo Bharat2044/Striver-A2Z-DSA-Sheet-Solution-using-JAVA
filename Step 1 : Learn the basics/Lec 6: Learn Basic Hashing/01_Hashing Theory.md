@@ -16,6 +16,7 @@ Here's an example of how to use hashing in Java:
 
 ```java
 import java.util.HashMap;
+import java.util.Map;
 
 public class HashingExample {
     public static void main(String[] args) {
@@ -31,7 +32,7 @@ public class HashingExample {
         System.out.println("Age of Bharat: " + map.get("Bharat"));
 
         // Check if key is present or not
-        System.out.println(map.keyContains("Bharat"));
+        System.out.println(map.containsKey("Bharat"));
 
         // Display the hash codes of the keys
         for (String key : map.keySet()) {
@@ -40,12 +41,12 @@ public class HashingExample {
 
         // Iterate over the map
         for (String key : map.keySet()) {
-            System.out.println("Hash code for " + key + ": " + key.hashCode());
-        }
-
-        // Iterate over the ma
-        for (String key : map.keySet()) {
             System.out.println(key + ": " + map.get(key));
+        }
+        
+        // Iterate over the map
+        for (Map.Entry<String, Integer> it : map.entrySet()) {
+            System.out.println(it.getKey() + ": " + it.getValue());
         }
 
         // Handle a hash collision example
