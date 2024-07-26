@@ -30,9 +30,22 @@ public class HashingExample {
         // Retrieve a value using a key
         System.out.println("Age of Bharat: " + map.get("Bharat"));
 
+        // Check if key is present or not
+        System.out.println(map.keyContains("Bharat"));
+
         // Display the hash codes of the keys
         for (String key : map.keySet()) {
             System.out.println("Hash code for " + key + ": " + key.hashCode());
+        }
+
+        // Iterate over the map
+        for (String key : map.keySet()) {
+            System.out.println("Hash code for " + key + ": " + key.hashCode());
+        }
+
+        // Iterate over the ma
+        for (String key : map.keySet()) {
+            System.out.println(key + ": " + map.get(key));
         }
 
         // Handle a hash collision example
