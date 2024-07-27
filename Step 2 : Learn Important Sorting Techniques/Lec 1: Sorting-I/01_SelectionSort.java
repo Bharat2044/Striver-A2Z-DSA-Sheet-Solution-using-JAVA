@@ -1,6 +1,6 @@
 // Question Link: https://www.geeksforgeeks.org/problems/selection-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=selection-sort
 
-Theory - https://takeuforward.org/sorting/selection-sort-algorithm/
+// Theory - https://takeuforward.org/sorting/selection-sort-algorithm/
 
 
 
@@ -50,3 +50,7 @@ class Solution {
     }
 }
 
+
+// Note: Selection Sort is an Inplace Sorting, but not Stable Algorithm.
+// Inplace Sorting: Not taking any extra space
+// Stable Algorithm: Order Precedence not follow if 2 same elements here.
