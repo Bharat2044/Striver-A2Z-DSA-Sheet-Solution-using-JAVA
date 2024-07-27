@@ -20,49 +20,103 @@ import java.util.Map;
 
 public class HashingExample {
     public static void main(String[] args) {
-        // Create a HashMap
+        // Initialize a new HashMap to store names and ages
+        // Time complexity: O(1)
         HashMap<String, Integer> map = new HashMap<>();
+        
+        // Get the size of the HashMap
+        // Time complexity: O(1)
+        System.out.println("Initial HashMap: " + map);
+        System.out.println("Initial HashMap size: " + map.size());
 
         // Add key-value pairs to the HashMap
+        // Time complexity: O(1) on average
         map.put("Bharat", 21);
         map.put("Deepak", 25);
         map.put("Raj", 28);
+        
+        // Get the size of the HashMap after adding elements
+        // Time complexity: O(1)
+        System.out.println("HashMap after adding elements: " + map);
+        System.out.println("HashMap size after adding elements: " + map.size());
 
         // Retrieve a value using a key
+        // Time complexity: O(1) on average
         System.out.println("Age of Bharat: " + map.get("Bharat"));
+        System.out.println("Age of Mohan (not present): " + map.get("Mohan"));
 
-        // Check if key is present or not
-        System.out.println(map.containsKey("Bharat"));
+        // Check if a key is present
+        // Time complexity: O(1) on average
+        System.out.println("Is Bharat present? " + map.containsKey("Bharat"));
+        System.out.println("Is Mohan present? " + map.containsKey("Mohan"));
 
         // Display the hash codes of the keys
+        // Time complexity: O(n)
         for (String key : map.keySet()) {
             System.out.println("Hash code for " + key + ": " + key.hashCode());
         }
+        
+        // Print all keys in the HashMap
+        // Time complexity: O(n)
+        System.out.println("All keys in the HashMap: ");
+        for (String key : map.keySet()) {
+            System.out.println(key);
+        }
+        
+        // Print all values in the HashMap
+        // Time complexity: O(n)
+        System.out.println("All values in the HashMap: ");
+        for (Integer value : map.values()) {
+            System.out.println(value);
+        }
 
-        // Iterate over the map
+        // Iterate over the map and print each key-value pair
+        // Time complexity: O(n)
         for (String key : map.keySet()) {
             System.out.println(key + ": " + map.get(key));
         }
         
-        // Iterate over the map
-        for (Map.Entry<String, Integer> it : map.entrySet()) {
-            System.out.println(it.getKey() + ": " + it.getValue());
+        // Alternative iteration over the map using entrySet
+        // Time complexity: O(n)
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            System.out.println(entry.getKey() + ": " + entry.getValue());
         }
+        
+        // Adding a duplicate key updates the value
+        // Time complexity: O(1) on average
+        map.put("Bharat", 33);
+        System.out.println("HashMap after adding duplicate key: " + map);
+        System.out.println("HashMap size after adding duplicate key: " + map.size());
+        System.out.println("Updated age of Bharat: " + map.get("Bharat"));
+        
+        // Remove an element from the map
+        // Time complexity: O(1) on average
+        map.remove("Raj");
+        System.out.println("HashMap after removing 'Raj': " + map);
+        System.out.println("HashMap size after removal: " + map.size());
 
-        // Handle a hash collision example
-        String key1 = "FB"; // Example of hash collision with key2
+        // Demonstrate hash collision handling
+        String key1 = "FB"; // Example keys with the same hash code
         String key2 = "Ea";
 
         System.out.println("Hash code for " + key1 + ": " + key1.hashCode());
         System.out.println("Hash code for " + key2 + ": " + key2.hashCode());
 
         // Add the keys to the map
+        // Time complexity: O(1) on average
         map.put(key1, 50);
         map.put(key2, 60);
 
-        // Retrieve the values
+        // Retrieve the values for the colliding keys
+        // Time complexity: O(1) on average
         System.out.println("Value for " + key1 + ": " + map.get(key1));
         System.out.println("Value for " + key2 + ": " + map.get(key2));
+        
+        // Clear all entries in the HashMap
+        // Time complexity: O(n)
+        map.clear();
+        System.out.println("HashMap after clear operation: " + map);
+        System.out.println("HashMap size after clear operation: " + map.size());
     }
 }
 ```
