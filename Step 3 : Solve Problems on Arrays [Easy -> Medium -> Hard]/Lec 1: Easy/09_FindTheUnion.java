@@ -18,6 +18,8 @@ class Solution {
         
         // Add all elements from the first array to the TreeMap
         for (int i = 0; i < n; i++) {
+            // map.put(arr1[i], map.getOrDefault(arr1[i], 0) + 1);
+            
             // Alternative approach: Check if the element exists in the map
             if (map.containsKey(arr1[i])) {
                 // Increment the frequency if the element is already present
