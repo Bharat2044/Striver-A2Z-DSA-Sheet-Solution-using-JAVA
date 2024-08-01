@@ -22,7 +22,14 @@ git clone "https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JA
     - [**Lec 3: Learn STL/Java-Collections or similar thing in your language**](./Step%201%20:%20Learn%20the%20basics/Lec%203:%20Learn%20STL,%20Java-Collections%20or%20similar%20thing%20in%20your%20language/)
     - [**Lec 4: Know Basic Maths**](./Step%201%20:%20Learn%20the%20basics/Lec%204:%20Know%20Basic%20Maths/)
     - [**Lec 5: Learn Basic Recursion**](./Step%201%20:%20Learn%20the%20basics/Lec%205:%20Learn%20Basic%20Recursion/)
-    - [**Lec 6: Learn Basic Hashing**]()
+    - [**Lec 6: Learn Basic Hashing**](./Step%201%20:%20Learn%20the%20basics/Lec%206:%20Learn%20Basic%20Hashing/)
+- ### [Step 2 : Learn Important Sorting Techniques](./Step%202%20:%20Learn%20Important%20Sorting%20Techniques/)
+    - [**Lec 1: Sorting-I**](./Step%202%20:%20Learn%20Important%20Sorting%20Techniques/Lec%201:%20Sorting-I/)
+    - [**Lec 2: Sorting-II**](./Step%202%20:%20Learn%20Important%20Sorting%20Techniques/)
+- ### [Step 3 : Solve Problems on Arrays ](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/)
+    - [**Lec 1: Easy**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%201:%20Easy/)
+    - [**Lec 2: Medium**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard])
+    - [**Lec 3: Hard**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard])
 
 
 
