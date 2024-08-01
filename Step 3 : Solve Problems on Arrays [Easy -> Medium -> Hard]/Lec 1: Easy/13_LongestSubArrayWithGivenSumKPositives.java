@@ -68,7 +68,6 @@ class Solution{
     }
     */
     
-    /*
     // 3rd Approach: Better Approach (Using Hashing) - Time Complexity = O(N), Space Complexity = O(N)
     public static int lenOfLongSubarr(int A[], int N, int K) {
         // Create a hashmap to store the first occurrence of cumulative sums
@@ -109,9 +108,10 @@ class Solution{
         // Return the length of the longest sub-array with the sum equal to K
         return maxi;
     }
-    */
 
+    /*
     // 4th Approach: Optimal Approach (Using 2 Pointers) - Time Complexity = O(N), Space Complexity = O(1)
+    // This will work only for positive integers
     public static int lenOfLongSubarr(int A[], int N, int K) {
         // Initialize two pointers for the sliding window
         int left = 0; // Left pointer
@@ -143,4 +143,5 @@ class Solution{
         // Return the length of the longest sub-array with the sum equal to K
         return maxi;
     }
+    */
 }
