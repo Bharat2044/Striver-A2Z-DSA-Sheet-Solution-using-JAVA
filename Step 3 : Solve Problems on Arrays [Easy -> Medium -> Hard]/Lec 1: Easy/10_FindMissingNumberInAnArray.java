@@ -32,7 +32,7 @@ class Solution {
     */
 
     /*
-    // 2nd Approach: Using HashMap - Time Complexity = O(n), Space Complexity = O(n)
+    // 2nd Approach: Using Array Hashing - Time Complexity = O(n), Space Complexity = O(n)
     public int missingNumber(int[] nums) {
 
         // Create an array to track the presence of each number in the range [0, nums.length]
