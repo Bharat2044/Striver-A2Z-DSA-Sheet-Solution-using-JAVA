@@ -129,7 +129,7 @@ class Solution{
                 sum -= A[left];
                 left++;
             }
-            
+             
             // Check if the current sum equals K
             if (sum == K) {
                 // Update the maximum length found if the current sub-array is longer
