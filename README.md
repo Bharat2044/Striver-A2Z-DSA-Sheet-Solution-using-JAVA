@@ -28,8 +28,8 @@ git clone "https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JA
     - [**Lec 2: Sorting-II**](./Step%202%20:%20Learn%20Important%20Sorting%20Techniques/)
 - ### [Step 3 : Solve Problems on Arrays ](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/)
     - [**Lec 1: Easy**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%201:%20Easy/)
-    - [**Lec 2: Medium**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%202:%20Medium/])
-    - [**Lec 3: Hard**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard])
+    - [**Lec 2: Medium**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%202:%20Medium/)
+    - [**Lec 3: Hard**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/)
 
 
 
