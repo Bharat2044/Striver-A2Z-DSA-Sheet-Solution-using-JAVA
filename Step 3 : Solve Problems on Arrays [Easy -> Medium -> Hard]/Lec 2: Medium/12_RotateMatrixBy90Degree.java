@@ -10,7 +10,7 @@ class Solution {
         int n = matrix.length;
         
         // Allocate a temporary matrix to store the rotated version
-        int[][] temp = new int[n][n];
+        int[][] temp = new int[n][n]; 
 
         // Traverse the original 'matrix' and place its rotated values into 'temp'
         for (int i = 0; i < n; i++) {
