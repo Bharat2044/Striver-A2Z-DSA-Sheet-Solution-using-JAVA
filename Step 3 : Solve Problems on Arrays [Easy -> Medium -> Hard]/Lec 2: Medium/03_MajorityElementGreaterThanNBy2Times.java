@@ -79,18 +79,6 @@ class Solution {
     */
 
     /*
-    // 3rd Approach: Better Approach(Using Sorting) - Time Complexity = O(n * log(n)), Space  Complexity = O(1)
-    public int majorityElement(int[] nums) {
-        /*
-        // Sort the array
-        Arrays.sort(nums);
-        
-        // The majority element will be at the middle index
-        return nums[nums.length / 2];
-    }
-    */
-
-    /*
     // 4th Approach: Better Approach(Using Sorting) - Time Complexity = O(n * log(n)), Space  Complexity = O(1)
     // For Practice if majority element not present, in this case return -1
     public int majorityElement(int[] nums) {
