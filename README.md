@@ -1,6 +1,6 @@
 # **Striver A2Z DSA Sheet Solution using JAVA** 🔥🎯
 
-> ## _[Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) 🚀 by [Raj Vikramaditya / Striver](https://www.linkedin.com/in/rajstriver/)(Founder of takeUforward). This repository contains Code Solution using JAVA with explanation._
+> ## _[Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) 🚀 by [Raj Vikramaditya / Striver](https://www.linkedin.com/in/rajstriver/)(Founder of takeUforward). This repository contains Solution code using JAVA with different approaches and explanation._
 
 ### [Striver A2Z DSA Sheet Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 ### [takeUForward Youtube Channel Link](https://www.youtube.com/@takeUforward)
@@ -16,20 +16,28 @@ git clone "https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JA
 
 
 ## 👨‍💻 **Contents** 👀
-- ### [Step 1 : Learn the basics](./Step%201%20:%20Learn%20the%20basics/)
-    - [**Lec 1: Things to Know in C++/Java/Python or any language**](./Step%201%20:%20Learn%20the%20basics/Lec%201:%20Things%20to%20Know%20in%20Java/)
-    - [**Lec 2: Build-up Logical Thinking**](./Step%201%20:%20Learn%20the%20basics/Lec%202:%20Build-up%20Logical%20Thinking/)
-    - [**Lec 3: Learn STL/Java-Collections or similar thing in your language**](./Step%201%20:%20Learn%20the%20basics/Lec%203:%20Learn%20STL,%20Java-Collections%20or%20similar%20thing%20in%20your%20language/)
-    - [**Lec 4: Know Basic Maths**](./Step%201%20:%20Learn%20the%20basics/Lec%204:%20Know%20Basic%20Maths/)
-    - [**Lec 5: Learn Basic Recursion**](./Step%201%20:%20Learn%20the%20basics/Lec%205:%20Learn%20Basic%20Recursion/)
-    - [**Lec 6: Learn Basic Hashing**](./Step%201%20:%20Learn%20the%20basics/Lec%206:%20Learn%20Basic%20Hashing/)
-- ### [Step 2 : Learn Important Sorting Techniques](./Step%202%20:%20Learn%20Important%20Sorting%20Techniques/)
-    - [**Lec 1: Sorting-I**](./Step%202%20:%20Learn%20Important%20Sorting%20Techniques/Lec%201:%20Sorting-I/)
-    - [**Lec 2: Sorting-II**](./Step%202%20:%20Learn%20Important%20Sorting%20Techniques/)
-- ### [Step 3 : Solve Problems on Arrays ](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/)
-    - [**Lec 1: Easy**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%201:%20Easy/)
-    - [**Lec 2: Medium**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%202:%20Medium/)
-    - [**Lec 3: Hard**](./Step%203%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/)
+- ### [Step 01 : Learn the basics](./Step%2001%20:%20Learn%20the%20basics/)
+    - [**Lec 1: Things to Know in C++/Java/Python or any language**](./Step%2001%20:%20Learn%20the%20basics/Lec%201:%20Things%20to%20Know%20in%20Java%20or%20any%20language/)
+    - [**Lec 2: Build-up Logical Thinking**](./Step%2001%20:%20Learn%20the%20basics/Lec%202:%20Build-up%20Logical%20Thinking/)
+    - [**Lec 3: Learn STL/Java-Collections or similar thing in your language**](./Step%2001%20:%20Learn%20the%20basics/Lec%203:%20Learn%20STL,%20Java-Collections%20or%20similar%20thing%20in%20your%20language/)
+    - [**Lec 4: Know Basic Maths**](./Step%2001%20:%20Learn%20the%20basics/Lec%204:%20Know%20Basic%20Maths/)
+    - [**Lec 5: Learn Basic Recursion**](./Step%2001%20:%20Learn%20the%20basics/Lec%205:%20Learn%20Basic%20Recursion/)
+    - [**Lec 6: Learn Basic Hashing**](./Step%2001%20:%20Learn%20the%20basics/Lec%206:%20Learn%20Basic%20Hashing/)
+
+- ### [Step 02 : Learn Important Sorting Techniques](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/)
+    - [**Lec 1: Sorting-I**](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/Lec%201:%20Sorting-I/)
+    - [**Lec 2: Sorting-II**](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/)
+
+- ### [Step 03 : Solve Problems on Arrays](./Step%2003%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/)
+    - [**Lec 1: Easy**](./Step%2003%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%201:%20Easy/)
+    - [**Lec 2: Medium**](./Step%2003%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%202:%20Medium/)
+    - [**Lec 3: Hard**](./Step%2003%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%203:%20Hard/)
+
+- ### [Step 04 : Binary Search [1D, 2D Arrays, Search Space]](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/)
+    - [**Lec 1: BS on 1D Arrays**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/Lec%201:%20BS%20on%201D%20Arrays/)
+    - [**Lec 2: BS on Answers**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/)
+    - [**Lec 3: BS on 2D Arrays**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/)
+    
 
 
 
