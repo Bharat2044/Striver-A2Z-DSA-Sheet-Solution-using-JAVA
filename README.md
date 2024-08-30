@@ -11,7 +11,7 @@
 You need to write the following commands on the terminal screen(in vscode) to clone this repository.
 
 ```bash
-git clone "https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAVA.git"
+git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAVA.git
 ```
 
 
@@ -35,8 +35,8 @@ git clone "https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JA
 
 - ### [Step 04 : Binary Search [1D, 2D Arrays, Search Space]](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/)
     - [**Lec 1: BS on 1D Arrays**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/Lec%201:%20BS%20on%201D%20Arrays/)
-    - [**Lec 2: BS on Answers**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/)
-    - [**Lec 3: BS on 2D Arrays**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/)
+    - [**Lec 2: BS on Answers**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/Lec%202:%20BS%20on%20Answers/)
+    - [**Lec 3: BS on 2D Arrays**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/Lec%203:%20BS%20on%202D%20Arrays/)
     
 
 
