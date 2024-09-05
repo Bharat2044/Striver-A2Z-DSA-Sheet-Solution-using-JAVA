@@ -26,7 +26,7 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 
 - ### [Step 02 : Learn Important Sorting Techniques](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/)
     - [**Lec 1: Sorting-I**](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/Lec%201:%20Sorting-I/)
-    - [**Lec 2: Sorting-II**](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/)
+    - [**Lec 2: Sorting-II**](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/Lec%202:%20Sorting-II/)
 
 - ### [Step 03 : Solve Problems on Arrays](./Step%2003%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/)
     - [**Lec 1: Easy**](./Step%2003%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/Lec%201:%20Easy/)
@@ -38,7 +38,9 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
     - [**Lec 2: BS on Answers**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/Lec%202:%20BS%20on%20Answers/)
     - [**Lec 3: BS on 2D Arrays**](./Step%2004%20:%20Binary%20Search%20[1D,%202D%20Arrays,%20Search%20Space]/Lec%203:%20BS%20on%202D%20Arrays/)
     
-
+- ### [Step 05 : Strings [Basic and Medium]](./Step%2005%20:%20Strings%20[Basic%20and%20Medium]/)
+    - [**Lec 1: Basic and Easy String Problems**](./Step%2005%20:%20Strings%20[Basic%20and%20Medium]/Lec%201:%20Basic%20and%20Easy%20String%20Problems/)
+    - [**Lec 2: Medium String Problems**](./Step%2005%20:%20Strings%20[Basic%20and%20Medium])
 
 
 ## 🔗 **Let's Connect** 🤝
