@@ -41,6 +41,13 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 - ### [Step 05 : Strings [Basic and Medium]](./Step%2005%20:%20Strings%20[Basic%20and%20Medium]/)
     - [**Lec 1: Basic and Easy String Problems**](./Step%2005%20:%20Strings%20[Basic%20and%20Medium]/Lec%201:%20Basic%20and%20Easy%20String%20Problems/)
     - [**Lec 2: Medium String Problems**](./Step%2005%20:%20Strings%20[Basic%20and%20Medium])
+    
+- ### [Step 06 : Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
+    - [**Lec 1: Learn 1D LinkedList**](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%201:%20Learn%201D%20LinkedList/)
+    - [**Lec 2: Learn Doubly LinkedList**](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
+    - [**Lec 3: Medium Problems of LL**](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
+    - [**Lec 4: Medium Problems of DLL**](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
+    - [**Lec 5: Hard Problems of LL**](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
 
 
 ## 🔗 **Let's Connect** 🤝
