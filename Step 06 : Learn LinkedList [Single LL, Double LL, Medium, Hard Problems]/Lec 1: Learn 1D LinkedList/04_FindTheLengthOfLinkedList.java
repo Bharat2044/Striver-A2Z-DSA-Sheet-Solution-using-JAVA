@@ -5,13 +5,14 @@ class Solution {
     // Function to count nodes of a linked list.
     // Time Complexity = O(n), Space Complexity = O(1)
     public int getCount(Node head) {
-        // code here
+        
+        Node temp = head;
         int count = 0;
         
-        while (head != null) {
+        while (temp != null) {
             
             count++;
-            head = head.next;
+            temp = temp.next;
         }
         
         return count;
