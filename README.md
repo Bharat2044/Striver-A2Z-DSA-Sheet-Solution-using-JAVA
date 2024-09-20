@@ -25,7 +25,7 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 - [Lec 6: Learn Basic Hashing](./Step%2001%20:%20Learn%20the%20basics/Lec%206:%20Learn%20Basic%20Hashing/)
 
 ### [Step 02 : Learn Important Sorting Techniques](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/)
-- Lec 1: Sorting-I](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/Lec%201:%20Sorting-I/)
+- [Lec 1: Sorting-I](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/Lec%201:%20Sorting-I/)
 - [Lec 2: Sorting-II](./Step%2002%20:%20Learn%20Important%20Sorting%20Techniques/Lec%202:%20Sorting-II/)
 
 ### [Step 03 : Solve Problems on Arrays](./Step%2003%20:%20Solve%20Problems%20on%20Arrays%20[Easy%20->%20Medium%20->%20Hard]/)
