@@ -43,7 +43,7 @@ public class Solution {
     }
     */
 
-    // 2nd Approach: Brute Force Approach (Using 2 Pointers) - Time Complexity = O(n), Space Complexity = O(1)
+    // 2nd Approach: Optimal Approach (Using 2 Pointers) - Time Complexity = O(n), Space Complexity = O(1)
     public boolean hasCycle(ListNode head) {
         // If the list is empty or has only one node, no cycle can exist.
         if (head == null || head.next == null) {
@@ -58,7 +58,7 @@ public class Solution {
         while (fast != null && fast.next != null) {
             // Move slow by one step.
             slow = slow.next;
-            
+
             // Move fast by two steps.
             fast = fast.next.next;
 
