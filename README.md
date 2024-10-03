@@ -45,9 +45,9 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 [**Step 06 : Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]**](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
 - [Lec 1: Learn 1D LinkedList](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%201:%20Learn%201D%20LinkedList/)
 - [Lec 2: Learn Doubly LinkedList](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%202:%20Learn%20Doubly%20LinkedList/)
-- [Lec 3: Medium Problems of LL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
-- [Lec 4: Medium Problems of DLL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
-- [Lec 5: Hard Problems of LL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/)
+- [Lec 3: Medium Problems of LL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%203:%20Medium%20Problems%20of%20LL/)
+- [Lec 4: Medium Problems of DLL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%204:%20Medium%20Problems%20of%20DLL/)
+- [Lec 5: Hard Problems of LL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%205:%20Hard%20Problems%20of%20LL/)
 
 
 ## 🔗 **Let's Connect** 🤝
