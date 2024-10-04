@@ -48,6 +48,11 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 - [Lec 3: Medium Problems of LL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%203:%20Medium%20Problems%20of%20LL/)
 - [Lec 4: Medium Problems of DLL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%204:%20Medium%20Problems%20of%20DLL/)
 - [Lec 5: Hard Problems of LL](./Step%2006%20:%20Learn%20LinkedList%20[Single%20LL,%20Double%20LL,%20Medium,%20Hard%20Problems]/Lec%205:%20Hard%20Problems%20of%20LL/)
+    
+[**Step 07 : Recursion [PatternWise]**](./Step%2007%20:%20Recursion%20[PatternWise]/)
+- [Lec 1: Get a Strong Hold](./Step%2007%20:%20Recursion%20[PatternWise]/Lec%201:%20Get%20a%20Strong%20Hold/)
+- [Lec 2: Subsequences Pattern](./Step%2007%20:%20Recursion%20[PatternWise])
+- [Lec 3: Trying out all Combos / Hard](./Step%2007%20:%20Recursion%20[PatternWise])
 
 
 ## 🔗 **Let's Connect** 🤝
