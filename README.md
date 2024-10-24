@@ -61,8 +61,8 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
     
 💻 [**Step 09 : Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]**](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/)
 - [Lec 1: Learning](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/Lec%201:%20Learning/)
-- [Lec 2: Prefix, Infix, PostFix Conversion Problems](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/)
-- [Lec 3: Monotonic Stack/Queue Problems [VVV. Imp]](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/)
+- [Lec 2: Prefix, Infix, PostFix Conversion Problems](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/Lec%202:%20Prefix,%20Infix,%20PostFix%20Conversion%20Problems/)
+- [Lec 3: Monotonic Stack/Queue Problems [VVV. Imp]](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/Lec%203:%20Monotonic%20Stack,%20Queue%20Problems%20[VVV.%20Imp]/)
 - [Lec 4: Implementation Problems](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/)
 
 
