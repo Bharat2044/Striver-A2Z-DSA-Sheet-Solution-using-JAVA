@@ -2,6 +2,7 @@
 
 
 class MyStack {
+    
     private int[] arr; // Array to store elements of the stack
     private int top;   // Index of the top element in the stack
 
