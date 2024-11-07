@@ -6,6 +6,7 @@ class Solution {
     
     // Time Complexity = O(queries * n), Space Complexity = O(queries)
     public static int[] count_NGEs(int N, int arr[], int queries, int indices[]) {
+        
         // Result array to store the NGE counts for each query index
         int[] res = new int[queries];
 
@@ -19,6 +20,7 @@ class Solution {
 
             // Loop through elements to the right of the current index
             for (int j = indices[i] + 1; j < N; j++) {
+                
                 // If the current element arr[j] is greater than num, increment count
                 if (arr[j] > num) {
                     count++;
