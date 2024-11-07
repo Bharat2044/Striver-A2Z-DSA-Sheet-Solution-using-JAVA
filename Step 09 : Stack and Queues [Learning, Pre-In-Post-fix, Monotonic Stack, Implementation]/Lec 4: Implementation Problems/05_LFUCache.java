@@ -57,6 +57,7 @@ class LFUCache {
         if (keyToVal.containsKey(key)) { // If key exists, update value and frequency
             keyToVal.put(key, value); // Update value
             get(key); // Update key's frequency using get method
+            
             return;
         }
 
@@ -79,6 +80,7 @@ class LFUCache {
     private void putFreq(int key, int freq) {
         keyToFreq.put(key, freq); // Update key's frequency
         freqToLRUKeys.putIfAbsent(freq, new LinkedHashSet<>()); // Create freq list if absent
+        
         freqToLRUKeys.get(freq).add(key); // Add key to its new frequency list
     }
 }
