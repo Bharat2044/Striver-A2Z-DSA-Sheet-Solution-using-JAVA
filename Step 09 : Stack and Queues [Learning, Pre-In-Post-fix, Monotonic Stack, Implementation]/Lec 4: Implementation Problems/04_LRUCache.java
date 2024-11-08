@@ -2,6 +2,7 @@
 
 
 class LRUCache {
+    
     // Define a Node class to store key, value, and pointers to previous and next nodes
     class Node {
         int key;
@@ -20,6 +21,7 @@ class LRUCache {
     Node head = new Node(-1, -1);
     Node tail = new Node(-1, -1);
     int cap; // Store the capacity of the cache
+    
     // Map to store key-to-node mappings for O(1) access
     HashMap<Integer, Node> m = new HashMap<>();
 
@@ -63,6 +65,7 @@ class LRUCache {
             m.put(key, head.next); // Update map with the new most recent position
             return ans; // Return the node's value
         }
+        
         return -1; // If key doesn't exist, return -1
     }
 
