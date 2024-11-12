@@ -37,6 +37,7 @@ class StockSpanner {
     }
     */
 
+    
     // Stack to store pairs of prices and their spans
     private Stack<int[]> stack;
 
