@@ -8,15 +8,13 @@ import java.util.*;
 public class GFG {
 
     // Function to check if person 'a' knows person 'b'
-    static boolean knows(int a, int b, int[][] matrix)
-    {
+    static boolean knows(int a, int b, int[][] matrix) {
         return matrix[a][b] == 1;
     }
 
     // Returns -1 if celebrity is not present. If present,
     // returns id (value from 0 to n-1).
-    static int findCelebrity(int n, int[][] matrix)
-    {
+    static int findCelebrity(int n, int[][] matrix) {
         // the graph needs not be constructed
         // as the edges can be found by using knows function
 
@@ -47,14 +45,16 @@ public class GFG {
         return -1;
     }
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         int n = 4;
+        
         int[][] matrix = { { 0, 0, 1, 0 },
                            { 0, 0, 1, 0 },
                            { 0, 0, 0, 0 },
                            { 0, 0, 1, 0 } };
+        
         int id = findCelebrity(n, matrix);
+        
         if (id == -1) {
             System.out.println("No celebrity");
         }
