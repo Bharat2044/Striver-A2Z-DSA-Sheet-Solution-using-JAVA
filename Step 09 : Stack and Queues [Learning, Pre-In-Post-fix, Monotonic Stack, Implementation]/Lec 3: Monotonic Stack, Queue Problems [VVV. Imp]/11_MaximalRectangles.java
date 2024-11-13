@@ -5,6 +5,7 @@ class Solution {
     /*
     // 1st Approach: Brute Force Solution - Time Complexity = O((rows * cols)^2), Space Complexity = O(1)
     public int maximalRectangle(char[][] matrix) {
+    
         // Check if the matrix is empty, return 0 if true
         if (matrix.length == 0) {
             return 0;
