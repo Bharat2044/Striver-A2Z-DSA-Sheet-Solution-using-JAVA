@@ -5,6 +5,7 @@ class Solution {
     /*
     // 1st Approach: Brute Force Solution - Time Complexity: O(n * k), Space Complexity: O(n)
     public int[] maxSlidingWindow(int[] nums, int k) {
+        
         // Check if the input array is empty
         if (nums.length == 0) {
             return new int[0]; // Return an empty array if nums is empty
@@ -53,6 +54,7 @@ class Solution {
         
         // Iterate through each element in the array
         for (int i = 0; i < nums.length; i++) {
+            
             // Remove elements from the front if they are out of the current window
             if (!deque.isEmpty() && deque.peekFirst() < i - k + 1) {
                 deque.pollFirst(); // Remove index from front if it falls outside the window
