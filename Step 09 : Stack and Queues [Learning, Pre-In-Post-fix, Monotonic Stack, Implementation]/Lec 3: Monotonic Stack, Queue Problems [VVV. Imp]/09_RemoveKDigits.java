@@ -5,6 +5,7 @@ class Solution {
     /*
     // 1st Approach: Brute Force Solution - Time Complexity = O(k * n), Space Complexity = O(n)
     public String removeKdigits(String num, int k) {
+    
         // If k equals the length of num, we would remove all digits, resulting in "0"
         if (k == num.length()) {
             return "0"
@@ -105,6 +106,7 @@ class Solution {
 
     // 3rd Approach: Optimal Solution - Time Complexity = O(k * n), Space Complexity = O(n)
     public String removeKdigits(String num, int k) {
+        
         // If k equals the length of num, we would remove all digits, resulting in "0"
         if (k == num.length()) {
             return "0";
