@@ -121,6 +121,7 @@ class Solution {
 
                 // Calculate width of the rectangle formed by the popped height
                 int width;
+                
                 if (st.empty()) {
                     // If stack is empty, width is from start (0) to current index i
                     width = i;
