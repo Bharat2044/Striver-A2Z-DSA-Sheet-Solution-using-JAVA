@@ -51,6 +51,7 @@ class LFUCache {
 
     // Put key-value pair in the cache, managing capacity and frequency
     public void put(int key, int value) {
+        
         if (capacity == 0) // If capacity is zero, do nothing
             return;
 
