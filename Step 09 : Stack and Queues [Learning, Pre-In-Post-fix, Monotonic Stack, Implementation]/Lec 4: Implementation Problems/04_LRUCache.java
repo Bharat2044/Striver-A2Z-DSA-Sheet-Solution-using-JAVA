@@ -54,7 +54,9 @@ class LRUCache {
 
     // Function to get the value of a key, updating it as most recently used
     public int get(int key) {
-        if (m.containsKey(key)) { // Check if key exists
+        
+        // Check if key exists
+        if (m.containsKey(key)) {
             Node resNode = m.get(key); // Retrieve the node
             int ans = resNode.val; // Store the value to return
 
