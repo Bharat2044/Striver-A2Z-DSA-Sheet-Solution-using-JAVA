@@ -1,5 +1,5 @@
 // Question Link: https://leetcode.com/problems/find-the-celebrity/description/
-// https://www.geeksforgeeks.org/the-celebrity-problem/
+// Question Link: https://www.geeksforgeeks.org/the-celebrity-problem/
 
 
 // java program to find celebrity
