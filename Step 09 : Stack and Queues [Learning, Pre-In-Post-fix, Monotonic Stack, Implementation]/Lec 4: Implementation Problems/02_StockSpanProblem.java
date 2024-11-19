@@ -54,6 +54,7 @@ class StockSpanner {
         // Pop elements from the stack as long as the stack is not empty
         // and the price at the top of the stack is less than or equal to the current price
         while (!stack.isEmpty() && stack.peek()[0] <= price) {
+            
             // Accumulate the span by adding the span of the popped element
             span += stack.pop()[1];
         }
