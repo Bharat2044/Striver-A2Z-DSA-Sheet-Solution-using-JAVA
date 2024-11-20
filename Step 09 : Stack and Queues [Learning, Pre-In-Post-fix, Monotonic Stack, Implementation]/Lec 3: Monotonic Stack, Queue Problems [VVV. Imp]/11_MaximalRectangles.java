@@ -92,6 +92,7 @@ class Solution {
     
     // 2nd Approach: Optimal Solution - Time Complexity = O(rows * cols), Space Complexity = O(cols)
     public int maximalRectangle(char[][] matrix) {
+        
         // Check if the matrix is empty; if true, return 0 as no rectangles are possible
         if (matrix.length == 0) {
             return 0;
