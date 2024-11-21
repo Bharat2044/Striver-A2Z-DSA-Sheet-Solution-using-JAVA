@@ -5,7 +5,7 @@ class Solution {
     
     // Time Complexity = O(n), Space Complexity = O(n)
     public int[] nextGreaterElements(int[] nums) {
-        // get tjhe size of the array
+        // Get tjhe size of the array
         int n = nums.length;
 
         // Store the next greater elements
