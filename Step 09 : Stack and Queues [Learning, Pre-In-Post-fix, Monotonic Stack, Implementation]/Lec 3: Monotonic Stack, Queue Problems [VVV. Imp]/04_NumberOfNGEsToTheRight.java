@@ -5,8 +5,7 @@
 class Solution {
     
     // Time Complexity = O(queries * n), Space Complexity = O(queries)
-    public static int[] count_NGEs(int N, int arr[], int queries, int indices[]) {
-        
+    public static int[] count_NGEs(int N, int arr[], int queries, int indices[]) {        
         // Result array to store the NGE counts for each query index
         int[] res = new int[queries];
 
