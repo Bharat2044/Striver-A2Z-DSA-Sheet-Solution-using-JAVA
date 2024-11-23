@@ -37,6 +37,7 @@ class Solution {
 
     // 2nd Approach: Optimal Solution - Time Complexity: O(n), Space Complexity: O(n)
     public int[] maxSlidingWindow(int[] nums, int k) {
+        
         // Check if the input array is empty
         if (nums.length == 0) {
             return new int[0]; // Return an empty array if there are no elements
