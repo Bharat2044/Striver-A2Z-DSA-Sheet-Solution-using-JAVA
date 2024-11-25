@@ -55,6 +55,7 @@ class Solution {
 
      // 2nd Approach: Optimal Solution - Time Complexity = O(n), Space Complexity = O(n)
      public int[] asteroidCollision(int[] asteroids) {
+         
         // Initialize a stack to track the surviving asteroids
         Stack<Integer> stack = new Stack<>();
 
