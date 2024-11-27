@@ -5,6 +5,7 @@ class Solution {
     /*
     // 1st Approach: Brute Force Solution - Time Complexity = O(n^2), Space Complexity = O(1)
     public long subArrayRanges(int[] nums) {
+    
         // Initialize sumOfRanges to store the total sum of ranges of all subarrays
         long sumOfRanges = 0;
 
