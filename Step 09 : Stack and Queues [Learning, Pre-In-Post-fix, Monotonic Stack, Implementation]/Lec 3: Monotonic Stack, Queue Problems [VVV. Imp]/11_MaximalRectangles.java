@@ -54,7 +54,6 @@ class Solution {
         return maxArea;
     }
     */
-
     
 
     // Helper function to calculate the largest rectangle area in a histogram using a stack
