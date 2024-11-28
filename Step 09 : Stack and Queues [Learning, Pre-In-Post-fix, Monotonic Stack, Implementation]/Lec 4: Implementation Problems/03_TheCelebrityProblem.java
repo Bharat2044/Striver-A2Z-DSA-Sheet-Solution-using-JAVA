@@ -25,6 +25,7 @@ public class GFG {
         // query for all edges
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
+                
                 // Convert boolean result to int (1 for
                 // true, 0 for false)
                 int x = knows(i, j, matrix) ? 1 : 0;
