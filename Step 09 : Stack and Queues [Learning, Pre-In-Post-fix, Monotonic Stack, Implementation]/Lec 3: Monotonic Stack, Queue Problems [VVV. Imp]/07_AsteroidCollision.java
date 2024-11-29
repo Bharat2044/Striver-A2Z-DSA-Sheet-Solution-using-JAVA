@@ -66,6 +66,7 @@ class Solution {
 
             // Check for possible collisions only if there is a right-moving asteroid on the stack
             while (!stack.isEmpty() && asteroid < 0 && stack.peek() > 0) {
+                
                 if (Math.abs(stack.peek()) < Math.abs(asteroid)) {
                     // Right-moving asteroid is smaller, so it gets destroyed; pop it from the stack
                     stack.pop();
