@@ -46,6 +46,7 @@ class Solution {
     /*
     // 2nd Approach: Better Solution - Time Complexity = O(n), Space Complexity = O(n)
     public int trap(int[] height) {
+    
         // Get the length of the height array
         int n = height.length; 
 
@@ -85,8 +86,10 @@ class Solution {
     }
     */
 
+    
     // 3rd Approach: Optimal Solution - Time Complexity = O(n), Space Complexity = O(1)
     public int trap(int[] height) {
+        
         // Get the length of the height array
         int n = height.length; 
 
