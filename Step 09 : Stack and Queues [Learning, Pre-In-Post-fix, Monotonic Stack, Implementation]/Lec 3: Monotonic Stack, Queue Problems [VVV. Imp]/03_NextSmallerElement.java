@@ -6,6 +6,7 @@ public class Solution {
 
     // Time Complexity = O(n), Space Complexity = O(n)
     public ArrayList<Integer> prevSmaller(ArrayList<Integer> A) {
+        
         // Create an ArrayList to store the result
         ArrayList<Integer> result = new ArrayList<>();
         
