@@ -28,6 +28,7 @@ class Solution {
         
         // Build result for nums1 using nextGreaterMap
         int[] result = new int[nums1.length];
+        
         for (int i = 0; i < nums1.length; i++) {
             result[i] = nextGreaterMap.get(nums1[i]);
         }
